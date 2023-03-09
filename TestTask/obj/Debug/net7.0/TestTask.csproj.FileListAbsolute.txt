@@ -1,0 +1,12 @@
+C:\projects\TestTask\TestTask\bin\Debug\net7.0\TestTask.deps.json
+C:\projects\TestTask\TestTask\bin\Debug\net7.0\TestTask.dll
+C:\projects\TestTask\TestTask\bin\Debug\net7.0\TestTask.pdb
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.csproj.AssemblyReference.cache
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.AssemblyInfoInputs.cache
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.AssemblyInfo.cs
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.csproj.CoreCompileInputs.cache
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.dll
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\refint\TestTask.dll
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\TestTask.pdb
+C:\projects\TestTask\TestTask\obj\Debug\net7.0\ref\TestTask.dll

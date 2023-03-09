@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a2f6c7e_002D0970_002D4510_002D90ec_002Dfe98ccb8fde1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Circle_GetArea_ValidRadius_ReturnsCorrectArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.CircleTest.Circle_GetArea_ValidRadius_ReturnsCorrectArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.CircleTest.Circle_GetArea_NegativeRadius_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.TriangleTests.Triangle_GetArea_InvalidTriangle_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.TriangleTests.Triangle_GetArea_ValidTriangle_ReturnsCorrectValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.TriangleTests.Triangle_IsRightTriangle_ValidRightTriangle_ReturnsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.TriangleTests.Triangle_IsRightTriangle_ValidNonRightTriangle_ReturnsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3E40FDFF-F753-43EF-81A8-6FB038F22124::net7.0::TetsTask.Tests.ShapeArea.CircleTest.Circle_GetArea_ZeroRadius_ReturnsZero&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
